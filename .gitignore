@@ -1,0 +1,22 @@
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.tmp
+*.pbix.bak
+*.pbi
+
+# Power BI Desktop autosave/cache
+*.pbix.lock
+Cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Credentials (never commit connection strings/keys)
+*.env
+credentials.json

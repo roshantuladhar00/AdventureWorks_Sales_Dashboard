@@ -58,18 +58,6 @@ This report gives leadership a single view into sales performance, broken down b
 - 🗺️ Interactive dashboards with drill-through, slicers, bookmarks, and dynamic filtering.
 - ⚡ Optimized data model using a star schema and reusable DAX measures.
 
-### Notable DAX Measures
-
-- Total Revenue
-- Total Profit
-- Profit Margin %
-- YTD Revenue
-- Previous Month Revenue
-- 90-Day Rolling Profit
-- 10-Day Rolling Revenue
-- Revenue Target Gap
-- Profit Target Gap
-- Returned Rate
 
 ## Tech Stack
 

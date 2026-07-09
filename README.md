@@ -17,22 +17,16 @@ This report gives leadership a single view into sales performance, broken down b
 
 ## Screenshots
 
-> Add exported PNGs of each page here, then reference them below.
-> `File > Export > Export to Image` in Power BI Desktop, or a screen capture at 1920x1080.
-
-```
+[Exec Detail.pdf](https://github.com/user-attachments/files/29866326/Exec.Detail.pdf)
 docs/screenshots/exec-details.png
-docs/screenshots/customer-detail.png
-docs/screenshots/product-detail.png
+[Map.pdf](https://github.com/user-attachments/files/29866336/Map.pdf)
 docs/screenshots/map.png
-```
+[Product Detail.pdf](https://github.com/user-attachments/files/29866343/Product.Detail.pdf)
+docs/screenshots/product-detail.png
+[Customer Detail.pdf](https://github.com/user-attachments/files/29866359/Customer.Detail.pdf)
+docs/screenshots/customer-detail.png
 
-<!--
-![Exec Details](docs/screenshots/exec-details.png)
-![Customer Detail](docs/screenshots/customer-detail.png)
-![Product Detail](docs/screenshots/product-detail.png)
-![Map](docs/screenshots/map.png)
--->
+
 
 ## Key Metrics
 
@@ -71,17 +65,13 @@ AdventureWorks-Sales-Dashboard/
 ## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/AdventureWorks-Sales-Dashboard.git
-   ```
 2. Open `AdventureWorks_Report.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path/connection to point to your local AdventureWorks data.
 4. Explore the four report pages using the tabs at the bottom.
 
 ## Author
 
-Pasang (Roshan) Sherpa Tuladhar
-Master of Data Analytics, University of Niagara Falls Canada
+Roshan Tuladhar
 
 ## License
 

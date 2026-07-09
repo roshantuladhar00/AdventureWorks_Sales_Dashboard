@@ -38,13 +38,16 @@ This report gives leadership a single view into sales performance, broken down b
 
 ## Key Metrics
 
-> Replace with the actual measures once confirmed in Power BI Desktop — the compressed data model can't be read outside the app, so these are placeholders based on the visuals present.
-
-- Total Sales / Revenue
-- Total Profit / Margin %
-- Order Count
-- Sales by Region (map)
-- Top N Products / Categories
+- 📈 Total Sales Revenue
+- 💰 Total Profit
+- 📊 Profit Margin %
+- 🛒 Total Orders
+- 👥 Total Customers
+- 📦 Total Products Sold
+- 🌍 Sales by Region (Interactive Map)
+- 🏆 Top Products by Sales
+- 🥇 Top Product Categories
+- 📅 Sales Trend Over Time
 
 ## Tech Stack
 

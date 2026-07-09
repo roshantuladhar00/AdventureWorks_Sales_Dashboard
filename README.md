@@ -17,13 +17,13 @@ This report gives leadership a single view into sales performance, broken down b
 
 ## Screenshots
 
-[Exec Detail.pdf](https://github.com/user-attachments/files/29866326/Exec.Detail.pdf)
+![Exec Detail.pdf](https://github.com/user-attachments/files/29866326/Exec.Detail.pdf)
 docs/screenshots/exec-details.png
-[Map.pdf](https://github.com/user-attachments/files/29866336/Map.pdf)
+![Map.pdf](https://github.com/user-attachments/files/29866336/Map.pdf)
 docs/screenshots/map.png
-[Product Detail.pdf](https://github.com/user-attachments/files/29866343/Product.Detail.pdf)
+![Product Detail.pdf](https://github.com/user-attachments/files/29866343/Product.Detail.pdf)
 docs/screenshots/product-detail.png
-[Customer Detail.pdf](https://github.com/user-attachments/files/29866359/Customer.Detail.pdf)
+![Customer Detail.pdf](https://github.com/user-attachments/files/29866359/Customer.Detail.pdf)
 docs/screenshots/customer-detail.png
 
 

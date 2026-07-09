@@ -21,19 +21,19 @@ This report gives leadership a single view into sales performance, broken down b
 
 ### Executive Dashboard
 
-![Executive Dashboard](docs/screenshots/exec-detail.png)
+![Executive Dashboard](docs/screenshots/Exec%20Detail.png)
 
 ### Map Dashboard
 
-![Map Dashboard](docs/screenshots/map.png)
+![Map Dashboard](docs/screenshots/Map.png)
 
 ### Product Dashboard
 
-![Product Dashboard](docs/screenshots/product-detail.png)
+![Product Dashboard](docs/screenshots/Product%20Detail.png)
 
 ### Customer Dashboard
 
-![Customer Dashboard](docs/screenshots/customer-detail.png)
+![Customer Dashboard](docs/screenshots/Customer%20Detail.png)
 
 
 ## Key Metrics

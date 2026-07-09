@@ -49,6 +49,28 @@ This report gives leadership a single view into sales performance, broken down b
 - 🥇 Top Product Categories
 - 📅 Sales Trend Over Time
 
+## Technical Highlights
+
+- ⭐ Built using a dedicated Measure Table for organized DAX calculations.
+- 📊 40+ DAX measures created for KPI tracking, profitability analysis, sales trends, targets, returns, and time intelligence.
+- 📅 Implemented time intelligence measures including Previous Month, YTD, and Rolling 10-Day/90-Day calculations.
+- 🎯 Created KPI variance measures such as Revenue Target Gap, Profit Target Gap, and Order Target Gap.
+- 🗺️ Interactive dashboards with drill-through, slicers, bookmarks, and dynamic filtering.
+- ⚡ Optimized data model using a star schema and reusable DAX measures.
+
+### Notable DAX Measures
+
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- YTD Revenue
+- Previous Month Revenue
+- 90-Day Rolling Profit
+- 10-Day Rolling Revenue
+- Revenue Target Gap
+- Profit Target Gap
+- Returned Rate
+
 ## Tech Stack
 
 - **Power BI Desktop** — data modeling, DAX measures, report design
